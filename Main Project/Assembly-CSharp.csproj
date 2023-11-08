@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{a7227944-457f-6c72-8a11-76626df15767}</ProjectGuid>
+    <ProjectGuid>{8167ca73-3c37-c2bc-50c2-c72ff18d1974}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -291,19 +291,19 @@
      <HintPath>/Applications/2021.3.4f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="Newtonsoft.Json">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Analytics.StandardEvents">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/PackageCache/com.unity.analytics@3.6.12/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/PackageCache/com.unity.analytics@3.6.12/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Analytics.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Analytics.Tracker">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.iOS.Extensions.Xcode">
      <HintPath>/Applications/2021.3.4f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -684,118 +684,118 @@
      <HintPath>/Applications/2021.3.4f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
      </Reference>
      <Reference Include="Purchasing.Common">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Purchasing.Common.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Purchasing.Common.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Tilemap.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing.SecurityStub">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityStub.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityStub.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Advertisements">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Sprite.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Analytics">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Analytics.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Analytics.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.SpatialTracking">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
      </Reference>
      <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
      </Reference>
      <Reference Include="Cinemachine">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core.Analytics">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing.SecurityCore">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityCore.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.Purchasing.SecurityCore.dll</HintPath>
      </Reference>
      <Reference Include="com.unity.cinemachine.editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing.Codeless">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.Purchasing.Codeless.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.Purchasing.Codeless.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core.Environments">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Analytics.DataPrivacy">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing.Stores">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.Purchasing.Stores.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.Purchasing.Stores.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Monetization">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.Purchasing">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.SpatialTracking">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Advertisements.Editor">
-     <HintPath>/Users/vadimgerc/Desktop/LevelGenerator/LevelGenerator Project/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+     <HintPath>/Users/vadimgerc/Desktop/Level Generator Git/Level-Generator/Main Project/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
