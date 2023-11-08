@@ -28,3 +28,9 @@ When a new chunk is spawned, obstacles are generated on it using the **blue nois
 You can customize the generation parameters for each chunk separately in the **ChunkObject** script.
 
 <img width="373" alt="Screenshot 2023-11-08 at 19 13 50" src="https://github.com/VadimGerc/Level-Generator/assets/116275237/ed8f7c0a-8514-41e7-85c2-c29f4ebd8496">
+
+## Assets 
+
+Character - https://assetstore.unity.com/packages/3d/characters/meshtint-free-boximon-fiery-mega-toon-series-153958
+<br/>
+Obstacles - https://assetstore.unity.com/packages/3d/props/polygon-starter-pack-low-poly-3d-art-by-synty-156819
