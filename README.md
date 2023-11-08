@@ -3,18 +3,19 @@ Generates an endless level with obstacles (using blue noise algorithm).
 
 ## Overview
 
-![](https://github.com/VadimGerc/Level-Generator/blob/main/Readme%20Assets/Overview.gif)
+![ezgif com-optimize](https://github.com/VadimGerc/Level-Generator/assets/116275237/aca30966-f570-4407-87b6-feea2ad51300)
 
 ## How generation works
 
 ### Chunks Generation
 
 - When the character comes within a certain distance to the edge of the level, new chunks are generated.
-- When the character moves away from the far chunks, they are disabled (to save the generated level and not to affect performance).
+- When the character moves away from the far chunks, they are disabled (to save the generated level and not to affect performance).  
 
   **Drawing distance** can be customized in the **LevelGenerator** script
 
   <img width="372" alt="Screenshot 2023-11-08 at 18 56 52" src="https://github.com/VadimGerc/Level-Generator/assets/116275237/f936ba82-e756-49c9-bf8b-caa7d9f78377">
+
 
 ### Obstacles Generation
 
